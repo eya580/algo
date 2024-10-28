@@ -1,0 +1,3 @@
+Monitoring: Tracking and analyzing energy usage to identify patterns and inefficiencies.
+Conserving: Reducing energy consumption by using resources efficiently and minimizing waste.
+Optimizing: Enhancing systems and processes to maximize energy efficiency and performance.
