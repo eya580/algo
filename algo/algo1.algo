@@ -1,0 +1,18 @@
+ALGORITHM algorithm_name
+FUNCTION phrase (ch:string)
+VAR
+    i:integer;
+  s=0:integer;
+  mot=1:integer;
+BEGIN
+   Read(ch);
+   for i from ch(0) to lenght(ch) do
+   s:=s+1;
+   IF chi='' THAN mot=mot+1;
+
+END phrase
+
+
+
+
+
